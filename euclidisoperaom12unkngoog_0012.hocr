@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./euclidisoperaom12unkngoog_0012.png"; bbox 0 0 2482 4044; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 415 474 833 594">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 415 474 833 594">
+     <span class='ocr_line' id='line_1_1' title="bbox 415 474 833 594; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 415 474 833 594; x_wconf 82' lang='lat' dir='ltr'><strong>ANARITH</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 307 734 939 802">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 307 734 939 802">
+     <span class='ocr_line' id='line_1_2' title="bbox 307 734 939 802; baseline -0.003 0"><span class='ocrx_word' id='word_1_2' title='bbox 307 734 357 802; x_wconf 84' lang='lat' dir='ltr'>IN</span> <span class='ocrx_word' id='word_1_3' title='bbox 383 734 540 801; x_wconf 79' lang='lat' dir='ltr'>DECEM</span> <span class='ocrx_word' id='word_1_4' title='bbox 567 735 723 802; x_wconf 86' lang='lat' dir='ltr'><strong>LIBROS</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 751 734 939 801; x_wconf 83' lang='lat' dir='ltr'><strong>PRIORES</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 103 937 1098 1298">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 103 937 1098 1298">
+     <span class='ocr_line' id='line_1_3' title="bbox 103 937 1098 1076; baseline 0.003 -3"><span class='ocrx_word' id='word_1_6' title='bbox 103 937 708 1076; x_wconf 74' lang='lat' dir='ltr'>ELEMENTORUM</span> <span class='ocrx_word' id='word_1_7' title='bbox 752 938 1098 1076; x_wconf 76' lang='lat' dir='ltr'><strong>EUOLIDIS</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 372 1198 876 1298; baseline -0.002 -1"><span class='ocrx_word' id='word_1_8' title='bbox 372 1198 876 1298; x_wconf 70' lang='lat' dir='ltr'><strong>COMMENTARH.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 109 1466 1124 1677">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 109 1466 1124 1677">
+     <span class='ocr_line' id='line_1_5' title="bbox 109 1466 1124 1528; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 109 1470 163 1528; x_wconf 85' lang='lat' dir='ltr'>EX</span> <span class='ocrx_word' id='word_1_10' title='bbox 183 1466 577 1528; x_wconf 81' lang='lat' dir='ltr'>INTERPRETATIONE</span> <span class='ocrx_word' id='word_1_11' title='bbox 602 1467 813 1528; x_wconf 83' lang='lat' dir='ltr'><strong>GHERARDI</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 837 1467 1124 1528; x_wconf 77' lang='lat' dir='ltr'>GREMONENSIS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 256 1617 983 1677; baseline 0.001 -4"><span class='ocrx_word' id='word_1_13' title='bbox 256 1618 299 1673; x_wconf 86' lang='lat' dir='ltr'>IN</span> <span class='ocrx_word' id='word_1_14' title='bbox 319 1617 452 1674; x_wconf 83' lang='lat' dir='ltr'>CODICE</span> <span class='ocrx_word' id='word_1_15' title='bbox 472 1618 797 1677; x_wconf 75' lang='lat' dir='ltr'>ORACOVIEN81569</span> <span class='ocrx_word' id='word_1_16' title='bbox 816 1619 983 1675; x_wconf 82' lang='lat' dir='ltr'><strong>SERVATA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 291 2090 947 2174">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 291 2090 947 2174">
+     <span class='ocr_line' id='line_1_7' title="bbox 291 2090 947 2174; baseline 0.002 -15"><span class='ocrx_word' id='word_1_17' title='bbox 291 2090 694 2160; x_wconf 73' lang='lat' dir='ltr'><strong>MAXIMILIANUS</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 723 2091 947 2174; x_wconf 78' lang='lat' dir='ltr'><strong>CURTZE&#39;,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1246 4044">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1246 4044">
+     <span class='ocr_line' id='line_1_8' title="bbox 0 0 1246 4044; baseline 0 0"><span class='ocrx_word' id='word_1_19' title='bbox 0 0 1246 4044; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
